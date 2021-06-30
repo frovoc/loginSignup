@@ -28,7 +28,7 @@
 				@click="startLogin">
 					 登录
 				</el-button>
-				<!-- 其他登录 -->
+				<!-- 其他登录 还未添加-->
 				<view class="other_login cuIcon">
 					<view class="login_icon">
 						<view class="cuIcon-weixin" @tap="login_weixin"></view>
